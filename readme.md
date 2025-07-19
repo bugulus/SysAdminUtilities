@@ -1,3 +1,5 @@
+# Tree
+
 sysadmin-utilities/
 ├── README.md
 ├── LICENSE
@@ -20,7 +22,8 @@ sysadmin-utilities/
 └── utils/
     └── email_alert.py
 
-
+## Readme
+this is a repo for some common and useful system admin scripts. Its not complete yet, and neither is the documentation, but over time I will expand upon this repository and its usefulness will increase.
 
 
 
