@@ -25,6 +25,12 @@ sysadmin-utilities/
 ## Readme
 this is a repo for some common and useful system admin scripts. Its not complete yet, and neither is the documentation, but over time I will expand upon this repository and its usefulness will increase.
 
+### Dependencies
+None!
+
+### Installation
+fork the repo and sudo chmod +x to make the bash files executable and then run them with ./script_name.sh
+
 
 
 
