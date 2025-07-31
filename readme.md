@@ -20,7 +20,8 @@ sysadmin-utilities/
 │   ├── nginx_default.conf
 │   └── sshd_config_hardened
 └── utils/
-    └── email_alert.py
+    ├── email_alert.py
+    └── cron scheduler/alerter
 
 ## Readme
 this is a repo for some common and useful system admin scripts. Its not complete yet, and neither is the documentation, but over time I will expand upon this repository and its usefulness will increase.
