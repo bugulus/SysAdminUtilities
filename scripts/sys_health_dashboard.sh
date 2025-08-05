@@ -32,7 +32,7 @@ ps -eo pid,comm,%mem,%cpu --sort=-%mem | head -n 6
 echo -e "\n IP Addresses:"
 ip -brief address show | grep -v "lo"
 
-# Open ports
+# Open the ports
 echo -e "\n Listening Ports:"
 ss -tuln | grep LISTEN
 
