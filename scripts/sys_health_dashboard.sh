@@ -12,7 +12,7 @@ echo "======================="
 echo -e "\n Uptime:"
 uptime -p
 
-# CPU load
+# CPU average load
 echo -e "\n CPU Load:"
 uptime | awk -F'load average:' '{ print "Load Averages: " $2 }'
 
