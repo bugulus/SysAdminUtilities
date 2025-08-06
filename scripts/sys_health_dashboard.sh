@@ -5,7 +5,7 @@
 
 clear
 echo "======================="
-echo "  System Health Report "
+echo "System Health Dashboard"
 echo "======================="
 
 # Uptime
