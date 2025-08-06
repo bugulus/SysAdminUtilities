@@ -20,7 +20,7 @@ uptime | awk -F'load average:' '{ print "Load Averages: " $2 }'
 echo -e "\n Memory Usage:"
 free -h
 
-# Disk usage
+# Disk memory usage
 echo -e "\n Disk Usage:"
 df -hT --total | grep -E 'Filesystem|total'
 
